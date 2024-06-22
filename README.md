@@ -1,5 +1,7 @@
-[<h1 align="center">Hi 👋, I'm Manos</h1>
+<h1 align="center">Hi 👋, I'm Manos</h1>
 <h3 align="center">A passionate Software Developer from Greece</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkarapiperakis&label=Profile%20views&color=0e75b6&style=flat" alt="mkarapiperakis" /> </p>
 
 - 🔭 I’m currently working on **Deloitte**
 
@@ -14,4 +16,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkarapiperakis&show_icons=true&locale=en&layout=compact" alt="mkarapiperakis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkarapiperakis&" alt="mkarapiperakis" /></p>
-](https://github.com/MKarapiperakis/MyEventsApp.git)
