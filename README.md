@@ -88,10 +88,10 @@
 <table align="center" style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkarapiperakis&show_icons=true&locale=en&layout=compact" alt="mkarapiperakis" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkarapiperakis&show_icons=true&locale=en&layout=compact&theme=dark" alt="mkarapiperakis" />
     </td>
     <td style="border: none;">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkarapiperakis&" alt="mkarapiperakis" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkarapiperakis&theme=dark" alt="mkarapiperakis" />
     </td>
   </tr>
 </table>
