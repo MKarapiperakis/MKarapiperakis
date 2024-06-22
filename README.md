@@ -8,8 +8,9 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently working at **Deloitte**
-
+🔭 &nbsp;I’m currently working at **Deloitte Greece** as a Software Developer.\
+💡  &nbsp;&nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I’m currently pursuing a **Master's degree** in Computer Science at the University of the Peloponnese
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
