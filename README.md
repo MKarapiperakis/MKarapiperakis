@@ -8,9 +8,9 @@
        alt="snake" /></a>
 </div>
 
-🔭 &nbsp;Over two years of experience as a Software Developer at **Deloitte Greece**\
+🔭 &nbsp;Currently working as a Software Developer at Utrecht University, with over two years of experience at Deloitte Greece  
 💡  &nbsp;&nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I’m currently pursuing a **Master's degree** in Computer Science at the University of the Peloponnese
+🎓 &nbsp;I hold a Master's degree in Computer Science and a Bachelor's degree in Informatics and Telecommunications
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -87,9 +87,6 @@
 
 <table align="center" style="border: none;">
   <tr style="border: none;">
-    <td style="border: none;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkarapiperakis&show_icons=true&locale=en&layout=compact&theme=dark" alt="mkarapiperakis" />
-    </td>
     <td style="border: none;">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkarapiperakis&theme=dark" alt="mkarapiperakis" />
     </td>
