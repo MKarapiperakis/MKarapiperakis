@@ -42,11 +42,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkarapiperakis&theme=dark" alt="mkarapiperakis" />
     </td>
   </tr>
-  <tr style="border: none;">
-    <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkarapiperakis&layout=compact&theme=dark" alt="top langs" />
-    </td>
-  </tr>
 </table>
 
 <br>
