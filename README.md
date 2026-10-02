@@ -17,7 +17,7 @@
   <img src="https://github.com/MKarapiperakis/MKarapiperakis/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
-💻  Currently working as a Node.js Developer at Kotsovolos
+💻 &nbsp;Currently working as a Node.js Developer at Kotsovolos
 🔭 &nbsp;Previously worked as a Researcher/Developer at Utrecht University, with over two years of experience at Deloitte Greece  
 💡  &nbsp;&nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I hold a Master's degree in Computer Science and a Bachelor's degree in Informatics and Telecommunications
